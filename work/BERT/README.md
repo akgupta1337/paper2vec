@@ -3,7 +3,7 @@
 
 ## Citations
 
-`
+```
 @misc{devlin2019bertpretrainingdeepbidirectional,
       title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding}, 
       author={Jacob Devlin and Ming-Wei Chang and Kenton Lee and Kristina Toutanova},
@@ -13,4 +13,4 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/1810.04805}, 
 }
-`
+```
